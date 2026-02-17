@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.top-header a span {
+    transition: all 3.s;
+    font-size: small;
+
+}
+
+
+.top-header a span:hover {
+    color: #E83C91;
+}
+
+.navbar-nav .nav-link {
+    color: aliceblue;
+}
+.header-img{
+    height: 500px;
+    background-image: url('../image/flat-computer-engineering-concept.png');
+      background-size:contain;        /* تغطي كامل المساحة */
+    background-position:right;   /* بالصـف */
+    background-repeat: no-repeat;  /* بدون تكرار */
+}
